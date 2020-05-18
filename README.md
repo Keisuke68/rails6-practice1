@@ -1,1 +1,1 @@
-This is the Rails course on Udemy.
+This is the Rails practice.
